@@ -1,1 +1,176 @@
-const _0x1adf02=_0x5efb;(function(_0x2c2caa,_0x122f1e){const _0x7724a5=_0x5efb,_0x22e3f9=_0x2c2caa();while(!![]){try{const _0x3d4f5a=parseInt(_0x7724a5(0xc8))/0x1*(-parseInt(_0x7724a5(0xc2))/0x2)+parseInt(_0x7724a5(0xb6))/0x3+-parseInt(_0x7724a5(0x99))/0x4*(-parseInt(_0x7724a5(0xb8))/0x5)+parseInt(_0x7724a5(0xc4))/0x6+parseInt(_0x7724a5(0xb1))/0x7+parseInt(_0x7724a5(0xb7))/0x8+-parseInt(_0x7724a5(0x98))/0x9*(parseInt(_0x7724a5(0xaa))/0xa);if(_0x3d4f5a===_0x122f1e)break;else _0x22e3f9['push'](_0x22e3f9['shift']());}catch(_0x18eeaa){_0x22e3f9['push'](_0x22e3f9['shift']());}}}(_0x2b25,0xac749));function _0x5efb(_0x1e1fe6,_0x12d5df){_0x1e1fe6=_0x1e1fe6-0x96;const _0x2b2599=_0x2b25();let _0x5efb42=_0x2b2599[_0x1e1fe6];return _0x5efb42;}function _0x2b25(){const _0x507738=['8301363NfNUVI','/offline.html','put','/api/sync-session','addEventListener','2538720NXslon','10878280amMhaL','2785hRjXgA','title','body','matchAll','claim','supabase.co','includes','focus','method','match','24134uoZaxo','/icons/icon-512x512.png','2658696aHmBvh','push','waitUntil','action','74FUJLnC','open','all','activate','clients','Open','startsWith','9UlHpud','5924ucsADB','text/plain','Failed\x20to\x20sync\x20session\x20data:','install','close','/icons/icon-192x192.png','data','delete','location','Offline','error','json','origin','googleapis.com','registration','You\x20have\x20a\x20notification\x20from\x20AIMakeFood','url','30606320PqDguW','navigate','application/json','showNotification','openWindow','mode','request'];_0x2b25=function(){return _0x507738;};return _0x2b25();}const CACHE_NAME='aimakefood-v1',OFFLINE_URL=_0x1adf02(0xb2),PRECACHE_ASSETS=['/','/offline.html','/manifest.json',_0x1adf02(0x9e),_0x1adf02(0xc3)];self[_0x1adf02(0xb5)](_0x1adf02(0x9c),_0x5a6036=>{const _0x38a64e=_0x1adf02;_0x5a6036[_0x38a64e(0xc6)](((async()=>{const _0x47d3fa=await caches['open'](CACHE_NAME);await _0x47d3fa['addAll'](PRECACHE_ASSETS),await self['skipWaiting']();})()));}),self[_0x1adf02(0xb5)](_0x1adf02(0xcb),_0x546d78=>{_0x546d78['waitUntil'](((async()=>{const _0x3412c5=_0x5efb,_0x563f7f=await caches['keys']();await Promise[_0x3412c5(0xca)](_0x563f7f['filter'](_0x2c4e3f=>_0x2c4e3f!==CACHE_NAME)['map'](_0x528f08=>caches['delete'](_0x528f08))),await self[_0x3412c5(0xcc)][_0x3412c5(0xbc)]();})()));}),self[_0x1adf02(0xb5)]('fetch',_0x261ef9=>{const _0x15831d=_0x1adf02;if(_0x261ef9[_0x15831d(0xb0)][_0x15831d(0xc0)]!=='GET')return;if(!_0x261ef9['request'][_0x15831d(0xa9)][_0x15831d(0x97)](self[_0x15831d(0xa1)][_0x15831d(0xa5)]))return;if(_0x261ef9['request']['url'][_0x15831d(0xbe)]('/api/')||_0x261ef9['request']['url'][_0x15831d(0xbe)](_0x15831d(0xbd))||_0x261ef9[_0x15831d(0xb0)][_0x15831d(0xa9)]['includes'](_0x15831d(0xa6)))return;_0x261ef9['respondWith'](((async()=>{const _0x3315ac=_0x15831d;try{const _0x49d706=await fetch(_0x261ef9['request']);if(_0x49d706['ok']){const _0x441bfc=await caches['open'](CACHE_NAME);_0x441bfc[_0x3315ac(0xb3)](_0x261ef9[_0x3315ac(0xb0)],_0x49d706['clone']());}return _0x49d706;}catch(_0x500a9e){const _0x37d186=await caches[_0x3315ac(0xc1)](_0x261ef9[_0x3315ac(0xb0)]);if(_0x37d186)return _0x37d186;if(_0x261ef9['request'][_0x3315ac(0xaf)]===_0x3315ac(0xab)){const _0x2b7fa1=await caches['match'](OFFLINE_URL);if(_0x2b7fa1)return _0x2b7fa1;}return new Response(_0x3315ac(0xa2),{'status':0x1f7,'statusText':'Service\x20Unavailable','headers':new Headers({'Content-Type':_0x3315ac(0x9a)})});}})()));}),self['addEventListener']('sync',_0x3d6d22=>{_0x3d6d22['tag']==='sync-cooking-session'&&_0x3d6d22['waitUntil'](syncCookingSession());});async function syncCookingSession(){const _0x5306a7=_0x1adf02,_0x118456=await caches['open'](CACHE_NAME),_0x1367d7=await _0x118456['match']('pending-session-data');if(_0x1367d7)try{const _0x57fdfc=await _0x1367d7[_0x5306a7(0xa4)]();await fetch(_0x5306a7(0xb4),{'method':'POST','headers':{'Content-Type':_0x5306a7(0xac)},'body':JSON['stringify'](_0x57fdfc)}),await _0x118456[_0x5306a7(0xa0)]('pending-session-data');}catch(_0x2d753e){console[_0x5306a7(0xa3)](_0x5306a7(0x9b),_0x2d753e);}}self[_0x1adf02(0xb5)](_0x1adf02(0xc5),_0x24f43c=>{const _0x36702e=_0x1adf02;if(!_0x24f43c['data'])return;const _0x4c730d=_0x24f43c[_0x36702e(0x9f)]['json'](),_0xfe5147={'body':_0x4c730d[_0x36702e(0xba)]||_0x36702e(0xa8),'icon':_0x36702e(0x9e),'badge':'/icons/badge-72x72.png','vibrate':[0x64,0x32,0x64],'data':{'url':_0x4c730d[_0x36702e(0xa9)]||'/'},'actions':[{'action':_0x36702e(0xc9),'title':_0x36702e(0x96)},{'action':_0x36702e(0x9d),'title':'Dismiss'}]};_0x24f43c['waitUntil'](self[_0x36702e(0xa7)][_0x36702e(0xad)](_0x4c730d[_0x36702e(0xb9)]||'AIMakeFood',_0xfe5147));}),self['addEventListener']('notificationclick',_0x331be5=>{const _0x433641=_0x1adf02;_0x331be5['notification'][_0x433641(0x9d)]();if(_0x331be5[_0x433641(0xc7)]==='close')return;_0x331be5['waitUntil'](clients[_0x433641(0xbb)]({'type':'window','includeUncontrolled':!![]})['then'](_0x4204ac=>{const _0x3dd747=_0x433641;for(const _0x253dc7 of _0x4204ac){if(_0x253dc7[_0x3dd747(0xa9)]===_0x331be5['notification'][_0x3dd747(0x9f)]['url']&&'focus'in _0x253dc7)return _0x253dc7[_0x3dd747(0xbf)]();}if(clients[_0x3dd747(0xae)])return clients[_0x3dd747(0xae)](_0x331be5['notification'][_0x3dd747(0x9f)][_0x3dd747(0xa9)]);}));});
+// AIMakeFood Service Worker
+const CACHE_NAME = 'aimakefood-v1';
+const OFFLINE_URL = '/offline.html';
+
+// Assets to cache on install
+const PRECACHE_ASSETS = [
+  '/',
+  '/offline.html',
+  '/manifest.json',
+  '/icons/icon-192x192.png',
+  '/icons/icon-512x512.png',
+];
+
+// Install event - cache core assets
+self.addEventListener('install', (event) => {
+  event.waitUntil(
+    (async () => {
+      const cache = await caches.open(CACHE_NAME);
+      // Cache offline page and core assets
+      await cache.addAll(PRECACHE_ASSETS);
+      // Force waiting service worker to become active
+      await self.skipWaiting();
+    })(),
+  );
+});
+
+// Activate event - clean up old caches
+self.addEventListener('activate', (event) => {
+  event.waitUntil(
+    (async () => {
+      // Clean up old caches
+      const cacheNames = await caches.keys();
+      await Promise.all(
+        cacheNames.filter((name) => name !== CACHE_NAME).map((name) => caches.delete(name)),
+      );
+      // Take control of all pages immediately
+      await self.clients.claim();
+    })(),
+  );
+});
+
+// Fetch event - network first with offline fallback
+self.addEventListener('fetch', (event) => {
+  // Skip non-GET requests
+  if (event.request.method !== 'GET') {
+    return;
+  }
+
+  // Skip cross-origin requests
+  if (!event.request.url.startsWith(self.location.origin)) {
+    return;
+  }
+
+  // Skip API requests (Supabase, etc.)
+  if (
+    event.request.url.includes('/api/') ||
+    event.request.url.includes('supabase.co') ||
+    event.request.url.includes('googleapis.com')
+  ) {
+    return;
+  }
+
+  event.respondWith(
+    (async () => {
+      try {
+        // Try network first
+        const networkResponse = await fetch(event.request);
+
+        // Cache successful responses
+        if (networkResponse.ok) {
+          const cache = await caches.open(CACHE_NAME);
+          cache.put(event.request, networkResponse.clone());
+        }
+
+        return networkResponse;
+      } catch (error) {
+        // Network failed, try cache
+        const cachedResponse = await caches.match(event.request);
+
+        if (cachedResponse) {
+          return cachedResponse;
+        }
+
+        // If it's a navigation request, show offline page
+        if (event.request.mode === 'navigate') {
+          const offlineResponse = await caches.match(OFFLINE_URL);
+          if (offlineResponse) {
+            return offlineResponse;
+          }
+        }
+
+        // Return a basic offline response
+        return new Response('Offline', {
+          status: 503,
+          statusText: 'Service Unavailable',
+          headers: new Headers({
+            'Content-Type': 'text/plain',
+          }),
+        });
+      }
+    })(),
+  );
+});
+
+// Background sync for offline actions
+self.addEventListener('sync', (event) => {
+  if (event.tag === 'sync-cooking-session') {
+    event.waitUntil(syncCookingSession());
+  }
+});
+
+async function syncCookingSession() {
+  // Sync any pending cooking session data when back online
+  const cache = await caches.open(CACHE_NAME);
+  const pendingData = await cache.match('pending-session-data');
+
+  if (pendingData) {
+    try {
+      const data = await pendingData.json();
+      // Attempt to sync with server
+      await fetch('/api/sync-session', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(data),
+      });
+      // Clear pending data on success
+      await cache.delete('pending-session-data');
+    } catch (error) {
+      console.error('Failed to sync session data:', error);
+    }
+  }
+}
+
+// Push notification handling
+self.addEventListener('push', (event) => {
+  if (!event.data) return;
+
+  const data = event.data.json();
+  const options = {
+    body: data.body || 'You have a notification from AIMakeFood',
+    icon: '/icons/icon-192x192.png',
+    badge: '/icons/badge-72x72.png',
+    vibrate: [100, 50, 100],
+    data: {
+      url: data.url || '/',
+    },
+    actions: [
+      { action: 'open', title: 'Open' },
+      { action: 'close', title: 'Dismiss' },
+    ],
+  };
+
+  event.waitUntil(self.registration.showNotification(data.title || 'AIMakeFood', options));
+});
+
+// Notification click handling
+self.addEventListener('notificationclick', (event) => {
+  event.notification.close();
+
+  if (event.action === 'close') return;
+
+  event.waitUntil(
+    clients.matchAll({ type: 'window', includeUncontrolled: true }).then((clientList) => {
+      // If app is already open, focus it
+      for (const client of clientList) {
+        if (client.url === event.notification.data.url && 'focus' in client) {
+          return client.focus();
+        }
+      }
+      // Otherwise open new window
+      if (clients.openWindow) {
+        return clients.openWindow(event.notification.data.url);
+      }
+    }),
+  );
+});
