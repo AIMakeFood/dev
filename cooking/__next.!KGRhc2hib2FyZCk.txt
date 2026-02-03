@@ -1,8 +1,0 @@
-1:"$Sreact.fragment"
-2:I[54880,[],"ClientSegmentRoot"]
-3:I[33101,["9731","static/chunks/9731-2fd30e159af05e88.js","9631","static/chunks/9631-a427f851eb93ff2a.js","7139","static/chunks/7139-222d122694799040.js","3948","static/chunks/3948-9e4bb939c5943e76.js","5101","static/chunks/5101-a23cc31d430e2f8e.js","3527","static/chunks/3527-b14f62669d9e8873.js","3929","static/chunks/3929-dde11857004f0941.js","5885","static/chunks/5885-3d2dad9e11a88bf3.js","9889","static/chunks/9889-66a4a8f15ddca4d0.js","9305","static/chunks/app/(dashboard)/layout-1bd9fbcf4708108a.js"],"default"]
-4:I[41961,[],""]
-5:I[39584,["3948","static/chunks/3948-9e4bb939c5943e76.js","4151","static/chunks/app/(dashboard)/error-634197c12d4814fd.js"],"default"]
-6:I[86029,[],""]
-0:{"buildId":"-0efcOt1cg9XZhRLGYYxa","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"Component":"$3","slots":{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$5","errorStyles":[],"errorScripts":[],"template":["$","$L6",null,{}]}]},"serverProvidedParams":{"params":{},"promises":["$@7"]}}]]}],"loading":null,"isPartial":false}
-7:{}
