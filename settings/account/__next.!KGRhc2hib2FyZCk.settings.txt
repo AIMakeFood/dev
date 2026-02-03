@@ -3,5 +3,5 @@
 3:I[11878,["7139","static/chunks/7139-222d122694799040.js","3948","static/chunks/3948-9e4bb939c5943e76.js","3169","static/chunks/app/(dashboard)/settings/layout-8b490034bb29963f.js"],"default"]
 4:I[41961,[],""]
 5:I[86029,[],""]
-0:{"buildId":"LC4vDfyyDAvhm40PPvwRa","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"Component":"$3","slots":{"children":["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]},"serverProvidedParams":{"params":{},"promises":["$@6"]}}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"-0efcOt1cg9XZhRLGYYxa","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"Component":"$3","slots":{"children":["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]},"serverProvidedParams":{"params":{},"promises":["$@6"]}}]]}],"loading":null,"isPartial":false}
 6:{}
