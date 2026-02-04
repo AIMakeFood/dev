@@ -13,6 +13,12 @@ All images in this directory are sourced from Freepik.com and are used under Fre
 ### Recipe Images
 *Add downloaded images below with their source information*
 
+<a href="https://www.freepik.com/free-photo/spaghetti-with-meatballs-isolated-white-background_152545789.htm">Image by chandlervid85 on Freepik</a>
+
+<a href="https://www.freepik.com/free-ai-image/thanksgiving-celebration-with-delicious-food_371205680.htm#fromView=search&page=1&position=33&uuid=7bb073dc-ff69-4269-ae51-baa83c5770d4&query=apple+pie">Image by freepik</a>
+
+<a href="https://www.freepik.com/free-photo/turkish-street-food-lahmacun-with-lemon-fresh-parsley-melted-cheese-top_6076185.htm#fromView=search&page=1&position=4&uuid=ab30ef88-c600-41ab-847c-550909f60311&query=Classic+Margherita+Pizza">Image by azerbaijan_stockers on Freepik</a>
+
 - **File:** `italian-pasta-marinara.jpg`
 - **Source URL:** [Add Freepik URL here]
 - **License:** Freepik Free License
