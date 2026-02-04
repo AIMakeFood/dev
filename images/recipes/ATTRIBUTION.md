@@ -13,11 +13,38 @@ All images in this directory are sourced from Freepik.com and are used under Fre
 ### Recipe Images
 *Add downloaded images below with their source information*
 
-<a href="https://www.freepik.com/free-photo/spaghetti-with-meatballs-isolated-white-background_152545789.htm">Image by chandlervid85 on Freepik</a>
 
 <a href="https://www.freepik.com/free-ai-image/thanksgiving-celebration-with-delicious-food_371205680.htm#fromView=search&page=1&position=33&uuid=7bb073dc-ff69-4269-ae51-baa83c5770d4&query=apple+pie">Image by freepik</a>
 
-<a href="https://www.freepik.com/free-photo/turkish-street-food-lahmacun-with-lemon-fresh-parsley-melted-cheese-top_6076185.htm#fromView=search&page=1&position=4&uuid=ab30ef88-c600-41ab-847c-550909f60311&query=Classic+Margherita+Pizza">Image by azerbaijan_stockers on Freepik</a>
+<a href="https://www.freepik.com/free-photo/hot-grilled-spare-ribs-with-barbecue-sauce-crumpled-paper-top-view-ai-generative_41369006.htm#fromView=search&page=1&position=0&uuid=0d96131c-57d3-4a09-a08c-36e9603ff851&query=BBQ+Ribs">Image by chandlervid85 on Freepik</a>
+
+<a href="https://www.freepik.com/free-photo/meat-chunks-with-vegetables-plate_151105065.htm#fromView=search&page=1&position=1&uuid=413ba91b-bc3c-4499-afea-bfbb32ded7d3&query=Beef+and+Broccoli">Image by valeria_aksakova on Freepik</a>
+
+<a href="https://www.freepik.com/free-photo/buffalo-spicy-chicken-wings-with-cayenne-pepper-sauce-wooden-table_197002228.htm#fromView=search&page=1&position=11&uuid=ba8f4a6f-57f3-4df5-b6d7-3d285dd8d16d&query=Buffalo+Chicken+Wings">Image by chandlervid85 on Freepik</a>
+
+<a href="https://www.freepik.com/free-ai-image/chicken-curry-with-naan-bread-delicious-indian-dish_419220519.htm#fromView=search&page=1&position=4&uuid=9fec8e73-c1b2-4285-aaad-c7d15a44a151&query=Butter+Chicken">Image by freepik</a>
+
+<a href="https://www.freepik.com/free-photo/side-view-caesar-salad-with-cherry-tomatoes-parmesan-grilled-chicken-lettuce-plate_8195973.htm#fromView=search&page=1&position=47&uuid=2c7d00ae-7243-47d7-a8b9-27adeddd0f41&query=Caesar+Salad">Image by stockking on Freepik</a>
+
+<a href="https://www.freepik.com/free-photo/fresh-salad-with-cherry-tomatoes-basil-mozzarella-black-olives_7122593.htm#fromView=search&page=1&position=23&uuid=ff5cd176-9ab9-4441-8c7d-79076661c6ba&query=Caprese+Salad">Image by timolina on Freepik</a>
+
+<a href="https://www.freepik.com/free-photo/spring-roll_1135672.htm#fromView=search&page=1&position=3&uuid=caa6efd5-f6a2-4cca-931e-f25ffe53b1bc&query=Chicken+Enchiladas">Image by mrsiraphol on Freepik</a>
+
+
+
+<a href="https://www.freepik.com/free-photo/homemade-kung-pao-chicken-with-peppers-vegetables-chinese-food-stir-fry_6733662.htm#fromView=search&page=1&position=5&uuid=0503f38e-2478-4183-8d24-b1f5a26a674e&query=Chicken+Teriyaki">Image by timolina on Freepik</a>
+
+<a href="https://www.freepik.com/free-photo/tasty-stew-goulash-with-vegetables-served-bowl_64868533.htm#fromView=search&page=1&position=37&uuid=1f670764-7652-435d-8251-239d30b4e5dd&query=Chicken+Tikka+Masala">Image by valeria_aksakova on Freepik</a>
+
+<a href="https://www.freepik.com/free-photo/spanish-churros-traditional-spanish-food-isolated-white-background_402011247.htm#fromView=search&page=1&position=14&uuid=a27cd9d3-01fb-4401-8ef2-bd64ea9e751b&query=Churros">Image by chandlervid85 on Freepik</a>
+
+
+
+
+
+<a href="https://www.freepik.com/free-photo/turkish-street-food-lahmacun-with-lemon-fresh-parsley-melted-cheese-top_6076185.htm#fromView=search&page=1&position=4&uuid=ab30ef88-c600-41ab-847c-550909f60311&query=Classic+Margherita+Pizza">![alt text](2151865748.jpg)</a>
+
+<a href="https://www.freepik.com/free-photo/spaghetti-with-meatballs-isolated-white-background_152545789.htm">Image by chandlervid85 on Freepik</a>
 
 - **File:** `italian-pasta-marinara.jpg`
 - **Source URL:** [Add Freepik URL here]
