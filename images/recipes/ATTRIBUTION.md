@@ -38,6 +38,32 @@ All images in this directory are sourced from Freepik.com and are used under Fre
 
 <a href="https://www.freepik.com/free-photo/spanish-churros-traditional-spanish-food-isolated-white-background_402011247.htm#fromView=search&page=1&position=14&uuid=a27cd9d3-01fb-4401-8ef2-bd64ea9e751b&query=Churros">Image by chandlervid85 on Freepik</a>
 
+<a href="https://www.freepik.com/free-photo/italian-sandwiches-bruschetta-with-cheese-dry-tomatoes-basil_10835545.htm#fromView=search&page=1&position=6&uuid=8863ff6d-bd88-4cad-902e-74b4f609970d&query=Classic+Bruschetta">Image by azerbaijan_stockers on Freepik</a>
+
+<a href="https://www.freepik.com/free-photo/tasty-sandwich-ketchup-tomatoes-with-stem-dark-mix-color-surface-with-free-space_15076579.htm#fromView=search&page=1&position=2&uuid=cfbad865-aeb8-478f-971e-243659b4df9b&query=Classic+Cheeseburger">Image by mdjaff on Freepik</a>
+
+<a href="https://www.freepik.com/free-photo/croissant-baking-paper-flat-lay_9296776.htm#fromView=search&page=1&position=3&uuid=6540480a-e441-4b44-b938-7fef5b777b1e&query=Classic+Croissants">Image by 8photo on Freepik</a>
+
+<a href="https://www.freepik.com/free-photo/chickpea-hummus-wooden-bowl-garnished-with-parsley-paprika-olive-oil-isolated-white-background_38007336.htm#fromView=search&page=1&position=4&uuid=7e2ad898-3a95-4443-90e5-5bbb414fe8e3&query=Classic+Hummus">Image by chandlervid85 on Freepik</a>
+
+<a href="https://www.freepik.com/free-photo/pasta-dish-restaurant-table_6362470.htm#fromView=search&page=1&position=3&uuid=d34b9932-a619-4016-8e87-40395170db05&query=Classic+Spaghetti+Carbonara">Image by relineo on Freepik</a>
+
+<a href="https://www.freepik.com/free-photo/duck-breast-steak-white-plate_1144613.htm#fromView=search&page=1&position=15&uuid=23fa217a-75f6-441c-8dff-aea5b469a6ad&query=Coq+au+Vin">Image by mrsiraphol on Freepik</a>
+
+<a href="https://www.freepik.com/free-photo/creamy-risotto-with-herbs-cheese-white-bowl_385491283.htm#fromView=search&page=1&position=0&uuid=ca0585f7-f7d8-4a1a-823d-35f2e086185e&query=Creamy+Risotto+Milanese">Image by wahyu_t on Freepik</a>
+
+<a href="https://www.freepik.com/free-photo/top-view-creme-brulee-garnished-with-berries_7652755.htm#fromView=search&page=1&position=10&uuid=35009389-a701-4d61-8e6e-9172c26a9abc&query=Cr%C3%A8me+Br%C3%BBl%C3%A9e">Image by stockking on Freepik</a>
+
+<a href="https://www.freepik.com/free-photo/tortilla-wrap-with-falafel-vegetables-yellow-background_21938134.htm#fromView=search&page=1&position=15&uuid=bb2c96e7-ceb6-4e61-abe6-8bdd426df527&query=Falafel">Image by chandlervid85 on Freepik</a>
+
+<a href="https://www.freepik.com/free-photo/almond-banana-pancake_1247468.htm#fromView=search&page=1&position=4&uuid=3098ed1b-e8d7-4103-b622-6824e86a3366&query=Fluffy+Pancakes">Image by topntp26 on Freepik</a>
+
+<a href="https://www.freepik.com/free-photo/traditional-french-onion-soup-isolated-white-background_20267885.htm#fromView=search&page=1&position=9&uuid=47db941a-eba1-4097-ba8a-bc18d9732305&query=French+Onion+Soup">Image by chandlervid85 on Freepik</a>
+
+<a href="https://www.freepik.com/free-photo/greek-salad-with-cucumber-tomato-sweet-pepper-lettuce-green-onion-feta-cheese-olives-with-olive-oil-healthy-food_7677592.htm#fromView=search&page=1&position=1&uuid=7b0dce9b-67e2-4234-a172-d0ce4517f01e&query=Greek+Salad">Image by timolina on Freepik</a>
+
+<a href="https://www.freepik.com/free-photo/close-up-delicious-sandwich_8931117.htm#fromView=search&page=1&position=28&uuid=0f21ac7b-bc7d-4ccd-bf54-ced4621dc980&query=Grilled+Cheese+Sandwich">Image by freepik</a>
+
 
 
 
