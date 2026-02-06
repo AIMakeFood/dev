@@ -64,6 +64,27 @@ All images in this directory are sourced from Freepik.com and are used under Fre
 
 <a href="https://www.freepik.com/free-photo/close-up-delicious-sandwich_8931117.htm#fromView=search&page=1&position=28&uuid=0f21ac7b-bc7d-4ccd-bf54-ced4621dc980&query=Grilled+Cheese+Sandwich">Image by freepik</a>
 
+<a href="https://www.freepik.com/free-photo/mashed-avocado-guacamole-sauce-bowl-with-crackers_25469036.htm#fromView=search&page=1&position=17&uuid=6b3d73f2-d26c-47cf-9917-a8d9c4028d8d&query=Guacamole">Image by valeria_aksakova on Freepik</a>
+
+<a href="https://www.freepik.com/free-photo/classic-lasagna-with-bolognese-sauce_6963556.htm#fromView=search&page=1&position=25&uuid=ce640948-4ee4-4ef2-8561-a9f812c11f9d&query=Homemade+Lasagna">Image by timolina on Freepik</a>
+
+<a href="https://www.freepik.com/free-photo/cheesy-tokbokki-korean-traditional-food-black-board-background-lunch-dish_13902862.htm#fromView=search&page=1&position=2&uuid=860e0cca-8a4c-43e5-b96b-0805d5655e7a&query=Korean+Bibimbap">Image by jcomp on Freepik</a>
+
+<a href="https://www.freepik.com/free-photo/fried-chicken-with-cashew-nuts-thai-food_10400992.htm#fromView=search&page=1&position=16&uuid=ff433604-b0f8-4dde-ba0b-2b76ac6ab0c4&query=Kung+Pao+Chicken">Image by jcomp on Freepik</a>
+
+<a href="https://www.freepik.com/free-photo/macaroni-cheese-ham_1274003.htm#fromView=search&page=1&position=5&uuid=e69e2387-09b8-4d36-b222-2533b27630cf&query=Mac+and+Cheese">Image by topntp26 on Freepik</a>
+
+<a href="https://www.freepik.com/free-photo/bowl-hearty-vegetable-soup-with-red-beans-peas-carrots-tomatoes-garnished-with-fresh-basil-leaves_385493017.htm#fromView=search&page=1&position=8&uuid=6d2a2beb-ed4a-40e2-9a66-dd2421c144ec&query=Minestrone+Soup">Image by wahyu_t on Freepik</a>
+
+<a href="https://www.freepik.com/free-photo/bowl-miso-soup-with-tofu-green-onions-garnished-with-chopped-green-onions-served-with-chopsticks-rustic-background_385492481.htm#fromView=search&page=1&position=1&uuid=77c11be5-d166-4b3b-8693-d3d2f242a9ff&query=Miso+Soup">Image by wahyu_t on Freepik</a>
+
+<a href="https://www.freepik.com/free-photo/front-view-cooked-vegetable-dish-inside-pan-bright-desk_9483027.htm#fromView=search&page=1&position=11&uuid=8a963bbf-70b8-4572-b41a-fb0faa09f288&query=Moussaka">Image by KamranAydinov on Freepik</a>
+
+<a href="https://www.freepik.com/free-photo/pakistani-food-wooden-board-top-view_12144186.htm#fromView=search&page=1&position=3&uuid=e9f9e1e7-db96-4878-ab0d-739122df31af&query=Naan+Bread">Image by freepik</a>
+
+<a href="https://www.freepik.com/free-photo/stir-fried-noodle-pork-basil_1248097.htm#fromView=search&page=1&position=8&uuid=8474a3ee-4022-4f5f-8d62-071d1674bdf3&query=Pad+Thai">Image by topntp26 on Freepik</a>
+
+
 
 
 
